@@ -7,35 +7,35 @@
 
 = Clientes Potenciales
 
-En SuiteCRM, un cliente potencial es un contacto no calificado, generado a partir de algún evento relacionado a la comercialización, por ejemplo, puede ser una persona que ha llenado un formulario en su sitio web o alguien que conociste en un evento y aún no estás seguro si tiene autoridad para comprar.
-Una vez que una oportunidad se calificó y se convirtió, se puede dividir en tres partes; en un contacto que hayas establecido "quién", y en una cuenta cuando sepas "dónde" trabajan y en una oportunidad una vez que conozcas "qué" podrían comprar.
+En SuiteCRM, un cliente potencial es un contacto no calificado, generado a partir de algún evento relacionado al marketing, por ejemplo, puede ser una persona que completó un formulario en tu sitio web o alguien que conociste en un evento y todavía no estás seguro de si tiene autoridad para comerciar.
+Una vez que un cliente potencial es calificado y convertido, entonces se puede dividir en tres partes; en un contacto que hayas establecido "¿Quién es?", en una cuenta cuando sepas "¿Dónde trabajan?" y en una oportunidad una vez que conozcas "¿Qué podría comprar'".
 
 == Clientes Potenciales
 
-Puede acceder a acciones potenciales desde el menú desplegable del módulo de Clientes Potenciales o desde la barra lateral. Las acciones del módulo son las siguientes:
+Podes acceder a acciones de clientes potenciales desde el menú desplegable del módulo de Clientes Potenciales o desde la barra lateral. Las acciones del módulo son las siguientes:
 
-* *Crear cliente potencial* – Se abrirá un nuevo formulario en la vista Editar para permitirle crear un nuevo registro de cuenta.
-* *Ver clientes potenciales* – Será redireccionado a la vista de la lista de clientes potenciales del módulo. Esto permite buscar y listar clientes potenciales.
-* *Importar clientes potenciales* – Redirige al asistente de importación para el módulo de clientes potenciales.
-Para más información vea el siguiente link:./../../introduction/user-interface/record-management/#_importing_records[Importing Records].
-Para ver la lista completa de los campos disponibles al crear un cliente potencial, vea el siguiente link:./../../appendix-a/#_leads_field_list[Leads Field List].
+* *Crear cliente potencial* – Se abrirá un nuevo formulario en Editar Vista para permitirle crear un nuevo registro de Cuenta.
+* *Ver clientes potenciales* – Redirecciona a la Vista de la Lista de clientes potenciales del módulo. Esto permite buscar y listar clientes potenciales.
+* *Importar Clientes Potenciales* – Redirige al asistente de importación para el módulo de clientes potenciales. Para más información vea el siguiente link:./../../introduction/user-interface/record-management/#_importing_records[Importar Registros].
+
+Para ver la lista completa de campos disponibles cuando crea un cliente potencial, vea el siguiente link link:./../../appendix-a/#_leads_field_list [Lista de campos para Clientes Potenciales].
 
 == Gestionar Clientes Potenciales
 
-* Para ordenar registros en la vista de lista de clientes potenciales, haga click en cualquier título de columna que se pueda ordenar. Esto ordenará la columna ya sea ascendente o descendente.
-* Para buscar clientes potenciales, ingrese al link:./../../introduction/user-interface/search[Search] de esta sección de la guía de usuario.
-* Para actualizar algunos o todos los clientes potenciales de esta vista de la lista, utilice el panel de actualización masiva como describe el siguiente link de la guía de usuario link:./../../introduction/user-interface/record-management/#_mass_updating_records[Mass Updating Records].
-* Para duplicar un cliente potencial, haga click en el botón "Duplicar" en la vista de detalles y luego guarde el registro duplicado
-* Para combinar un cliente potencial duplicado, seleccione el registro desde la vista de la lista de Clientes Potenciales, haga clic en la opción "Combinar" en la lista desplegable de "Acciones" y avance a través del proceso de fusión. Para obtener más información sobre la combinación de duplicados, consulte la sección "Combinar registros" de esta guía del usuario link:./../../introduction/user-interface/record-management/#_merging_records[Merging Records].
-* Para borrar uno o múltiples clientes potenciales, puede seleccionar múltiples registros desde la vista de la lista y hacer clic en eliminar. Puede también borrar un cliente potencial desde la vista de "Detalles" haciendo clic en el botón eliminar. Para obtener más detalles sobre la eliminación de registros, consulte la sección "Eliminación de registros" de esta guía de usuario link:./../../introduction/user-interface/record-management/#_deleting_records[Deleting Records]
+* Para ordenar registros en la vista de las lista Clientes Potenciales, haga clic en el título de cualquier columna ordenar. Esto ordenará la columna ya sea de forma ascendente o descendente.
+* Para buscar clientes potenciales, ingrese a link:./../../introduction/user-interface/search[Buscar] de la sección de esta guía de usuario.
+* Para actualizar algunos o todos los clientes potenciales en la vista de la lista, utilice el panel de actualización masiva como describe link:./../../introduction/user-interface/record-management/#_mass_updating_records[Actualización Masiva]en la sección de esta guía de usuario.
+* Para duplicar un cliente potencial, haga clic en el botón "Duplicar" en la vista de detalles y luego guarde el registro duplicado
+* Para combinar un cliente potencial duplicado, seleccione el registro desde la vista de la lista de Clientes Potenciales, haga clic en la opción "Combinar" en la lista desplegable de "Acciones" y avance a través del proceso de fusión. Para obtener más información sobre la combinación de duplicados, consulte la sección "Combinar registros" de esta guía del usuario link:./../../introduction/user-interface/record-management/#_merging_records[Combinar Registros].
+* Para borrar uno o múltiples clientes potenciales, puede seleccionar múltiples registros desde la vista de la lista y hacer clic en eliminar. Puede también borrar un cliente potencial desde la vista de "Detalles" haciendo clic en el botón eliminar. Para obtener más detalles sobre la eliminación de registros, consulte la sección "Eliminación de registros" de esta guía de usuario link:./../../introduction/user-interface/record-management/#_deleting_records[Borrar Registros]
 * Para ver lo detalles de un cliente potencial, haga clic en el nombre del mismo en la vista de lista, esto abrirá el registro en la vista de detalles.
 * Para editar clientes potenciales, haga clic en el ícono Editar la vista de la lista o haga clic en el boton editar en el detalle de la vista, haga los cambios necesarios y luego guárdelos.
-* Para una lista detallada o importar/exportar clientes potenciales vea los siguientes links:./../../introduction/user-interface/record-management/#_importing_records[Importing Records] y link:./../../introduction/user-interface/record-management/#_exporting_records[Exporting Records]
+* Para una guía detallada sobre importar/exportar clientes potenciales vea links:./../../introduction/user-interface/record-management/#_importing_records[Importar Registros] y link:./../../introduction/user-interface/record-management/#_exporting_records[Exportar Registros] secciones de la guía de usuario.
 * Para hacer seguimiento de todos los cambios en los campos auditados, en el registro de cliente potencial, podes hacer clic en el botón "Ver Registro de cambios" en la vista detallada de clientes potenciales o la vista de edición.
 
 == Convertir un Cliente Potencial
 
-Una vez que se reúne suficiente información sobre un cliente potencial, entonces el mismo puede pasar a la siguiente etapa de ventas y convertirse en un contacto, una cuenta y una oportunidad. La forma en que un cliente potencial se convierte depende de cómo el administrador del sistema ha configurado la etapa de ventas en SuiteCRM. Para convertir un cliente potencial con la configuración predeterminada de SuiteCRM, debe hacer clic en un registro de Cliente Potencial individual para acceder a la vista de detalles del mismo, hacer click en la flecha al lado del botón "Otro" y luego en "Convertir Cliente Potencial". En el menú desplegable se muestrará la siguiente imagen:
+Una vez que se reúna suficiente información sobre un cliente potencial, entonces podrá pasar a la siguiente etapa de ventas y convertirse en un contacto, una cuenta y una oportunidad. La forma en que un cliente potencial se convierte depende de cómo el administrador del sistema ha configurado la etapa de ventas en SuiteCRM. Para convertir un cliente potencial con la configuración predeterminada de SuiteCRM, hace clic en un registro de Cliente Potencial individual para acceder a la vista de detalles y hace clic en la flecha, al lado del botón "Otro" y luego en "Convertir Cliente Potencial" desde el menú desplegable, se mostrará la siguiente imagen: 
 
 image:68Converting_a_lead.png[title="Converting a Lead"]
 
@@ -44,12 +44,12 @@ Una vez que haga clic en el botón "Convertir cliente potencial" será dirigido 
 === Convertir un Cliente Potencial en un Contacto
 
 En esta página usted estará habilitado para crear o seleccionar contactos:
-image:69Convert_lead_to_conComplete los campos relevantes restantes y pase a la siguiente etapa:tact.png[title="Converting a Lead to a Contact"]
+image:69Convert_lead_to_contact.png[title="Converting a Lead to a Contact"]
 
-Deseleccionando la casilla de verificación junto a "Crear Contacto, estará habilitado para asociar el cliente potencial a un contacto existente
-De todos modos, en la mayoría de los casos cuando convierte un cliente potencial ese no se convertirá en un contacto existente.
+Deseleccionando la casilla de verificación junto a "Crear Contacto, estará habilitado para asociar el cliente potencial a un contacto existente.
+De todos modos, en la mayoría de los casos cuando convierte un cliente potencial, allí no existirá como contacto.
 Asegúrese de tildar la casilla "Crear contacto". 
-Algunos de los campos se completarán automáticamente con la información del cliente potencial.
+Algunos de los campos se completarán automáticamente usando la información del cliente potencial.
 Complete los campos relevantes restantes y pase a la siguiente etapa:
 
 
@@ -63,7 +63,7 @@ Para crear una cuenta desde la conversión de un cliente potencial convertido, d
 
 image:71Convert_lead_to_opportunity.png[title="Converting a Lead to an Opportunity"]
 
-Para crear una oportunidad a partir de un cliente potencial convertido, seguirá el mismo proceso que con un contacto, parte de la información se completará del cliente potencial automáticamente, simplemente complete el resto.
+Para crear una oportunidad desde un cliente potencial convertido deberá seguir el mismo proceso que con un contacto, parte de la información se completará automáticamente desde el cliente potencial, solo complete el resto.
 
 === Otras opciones para convertir un Cliente Potencial
 
@@ -71,15 +71,14 @@ Otros registros pueden ser creados cuando convierte un cliente potencial de las 
 
 image:72Convert_lead_options.png[title="Lead Conversion"]
 
-Después de completar las secciones pertinentes, haga clic en Guardar para confirmar los cambios.
+Después de que completó las secciones importantes, haga clic en Guardar para confirmar los cambios.
 
 == Comprobar un registro duplicado
 
 
-Al convertir un Lead SuiteCRM, se verificará automáticamente si hay registros duplicados y devolverá una advertencia si se encuentra un registro coincidente.
+Cuando se convierte un cliente potencial en SuiteCRM, se verificará automáticamente si hay registros duplicados y devolverá una advertencia si se encuentra un registro coincidente.
 
 image:73Duplicate_record_check.png[title="Duplicate Record Check"]
 
-Si encuentra que la advertencia duplicada no es válida y si continúa creando un nuevo registro, entonces haga clic en "Crear". 
-De lo contrario, si decide que la advertencia es correcta y el registro ya existe en SuiteCRM, entonces debe hacer clic en "Seleccionar".
+Si encuentra que la advertencia de seguridad de duplicaciones no es válida y continúa queriendo crear un nuevo registro, entonces haga clic en "Crear". De otra manera, si decide que la advertencia es correcta y el registro ya existe en SuiteCRM, entonces debería hacer clic en el botón "Seleccionar".
 </div>
