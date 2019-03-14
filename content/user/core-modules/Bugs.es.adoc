@@ -1,0 +1,85 @@
+<img src="Bugs(Errors).png" alt="" /><img src="Bugs(Errors).png" alt="" />
+
+
+:experimental: //// this is here to allow btn:[] syntax used below
+
+:imagesdir: /images/es/user
+
+
+= Bugs
+
+Usá este módulo para describir y rastrear errores.
+Cuando se crea el registro de un error, podes describir en detalle
+el problema que lo causó.
+link:../cases[apelaciones], y describe una manera posible de arreglarlo.
+link:../../advanced-modules/knowledgebase[Base de Datos].
+
+image: bugs-errors.png[Errores]
+
+Los errores descriptos podrían ser cualquier cosa: pueden estar relacionados a la versión (modelo) de un producto tangible, y el lanzamiento de la próxima versión de software.
+Un usuario con acceso administrativo tiene la abilidad de cambiar la lista de versiones disponibles.
+Después de describir un error, podes asociarlo con la solicitud.
+(en el formulario de visualización que utiliza el subpanel *de esa aplicación*).
+y con esa versión disponible del producto (directamente en el formulario de edición de errores).
+
+###
+Por defecto, ese modulo esta oculto, para monitorearlo necesitará hacerlo con un usuario administrativo.
+###
+
+Podes crear una descripción del error ya sea directamente en el sistema, o importarlo de la descripción desde la carpeta de texto, mas información detallada de ese ítem se describe en esa sección.
+link:../../introduction/user-interface/record-management/#_importing_records[Información de Datos].
+
+== Descripción del Error
+ . En el módulo menú, selecciona *Reportar Error*	.
+ .	En la página de descripción del error, complete los siguientes campos:
+
+Título:: Ingresa el nombre (descripción corta) del error.
+Prioridad: de la lista desplegable, selecciona una prioridad que refleje la urgencia de resolver el problema.
+Estado::Desde la lista desplegable, selecciona la opción de estado.
+Tipo::Desde la lista desplegable, selecciona el tipo: Error o característica.
+Fuente::Desde la lista desplegable, selecciona la fuente del error detectado.
+Categoría::Desde la lista desplegable, selecciona la categoría a la que cada error podría estar relacionado.
+
+{{% notice tip %}}
+Todos los valores de campos con lista pueden ser editados si fuera necesario.
+Entonces si no es un valor necesario en la lista desplegable puede ser agregado en Estudio.
+Para más información sobre modificar las lista de cuadros, mirá 
+link:../../../admin/administration-panel/developer-tools/[Editor combinado].
+{{% /notice %}}
+
+Detectado en la versión :: Desde la lista desplegable, seleccioná la versión de ese producto en cada error que fue detectado.
+
+image:Bugs Description.png[Descripción del Error]
+
+Resolución:: Desde la lista desplegable, seleccioná la resolución.
+Corregido en la versión:: Desde la lista desplegable seleccioná la versión de los productos en cada error corregido.
+Nota:: La lista de versiones disponibles se puede configurar por los usuarios administradores. Para información detallada, vea la sección
+link:../../../developer/best-practices/[Control de Versión].
+Descripción :: Ingrese una descripción completa del problema.
+Iniciar sesión :: Ingrese las medidas tomadas para resolver el problema.
+Asignado a :: Indicar la persona asignada al error para el usuario de sistema. Por defecto, vas a estar asignado al error.
+[start=3] 
+ . Hacé clic en el boton btn:[Guardar] para guardar la información ingresada;
+ hacé clic en el boton btn:[Cancelar] para volver a la lista de llamadas o reuniones sin guardar la información ingresada.
+ Después de guardar la descripción del error, podes asociarlo con apelaciones nuevas o existentes, contactos o cuentas.
+
+== Manejo de errores
+
+ En este módulo podes realizar las siguientes acciones:
+
+*	Clasificar la lista de registros. Para hacerlo, hacé clic en el ícono del encabezado de la columna para clasificarlos. Para revertir la clasificación, hacé clic otra vez en el ícono.
+*	Editar o eliminar información de varios errores de una sola vez, para eso utilizá  link:../../introduction/user-interface/record-management/#_mass_updating_records[Panel de actualización masiva].
+*	link:../../introduction/user-interface/record-management/#_importing_records[Importar] Información del error , para avanzar hacé clic en el boton btn:[Importar], ubicado en el módulo menú.
+*	link:../../introduction/user-interface/record-management/#_merging_records[Unir duplicado], Para hacerlo, seleccioná las entradas necesarias en el formulario de la lista y en el menú seleccioná el elemento *Combinar*.
+*	Vista detallada de la información de un error, para avanzar, hacé clic en el nombre del error en el formulario de la lista.
+*	Editar datos, para este propósito en el formulario de vista hacé clic en el boton btn:[Correcto], también podes hacer clic directamente en la lista del formulario en el boton que esta a la izquierda de la edición del registro. También podes hacer una link:../../introduction/user-interface/in-line-editing/[Edición rápida].
+*	Duplicación de la información de un error, para seleccionar esta acción en el menú, selecccioná btn:[Duplicar]. La duplicación es una manera rápida de crear registros similares, podes cambiar la información duplicada para crear la descripción de un nuevo error.
+*	Para eliminar la descripción de un error, hacé clic en el boton btn:[Eliminar].
+*	Ratrear cambios de la información ingresada, para esto hacé clic en el boton btn:[Vista de cambios] en el formulario de visita. Si las necesidades diarias son cambiar la lista de campos controlados- hacelo en el estudio desde la opción de ajustar parámetros link:../../../admin/administration-panel/developer-tools/[*Аuditar*] en el campo correspondiente.
+*	link:../../introduction/user-interface/record-management/#_exporting_records[Exportar] un error de información, para avanzar selecciona los registros necesarios en la lista del formulario y luego seleccioná el ítem *Exportar* en el menú arriba de los registros seleccionados.
+*	Ver y editar información de errores relacionados, para ello utilizá link:../../introduction/user-interface/views/[Subpaneles].
+*	Archivar correos relacionados al error actual. Para hacerlo, utilizá el boton en el formulario de error que esta en el subpanel *Historia* btn:[Enviar al archivo de correo].
+*	Buscar información sobre errores- usá link:../../introduction/user-interface/search[Filtros o Filtros Avanzados] en el formulario de la lista de módulos. Para buscar solo sus registros, verificá la opción *Mis registros*, para buscar errores actuales, to search for actual Bugs (nuevo, asignado, esperar una decisión)verificá la opción *Actual*.
+
+
+
