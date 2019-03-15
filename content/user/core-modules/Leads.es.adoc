@@ -4,14 +4,14 @@
 = Clientes Potenciales
 
 En SuiteCRM, un cliente potencial es un contacto no calificado, generado a partir de algún evento relacionado al marketing, por ejemplo, puede ser una persona que completó un formulario en tu sitio web o alguien que conociste en un evento y todavía no estás seguro de si tiene autoridad para comerciar.
-Una vez que un cliente potencial es calificado y convertido, entonces se puede dividir en tres partes; en un contacto que hayas establecido "¿Quién es?", en una cuenta cuando sepas "¿Dónde trabajan?" y en una oportunidad una vez que conozcas "¿Qué podría comprar'".
+Una vez que un cliente potencial es calificado y convertido, entonces se puede dividir en tres partes; en un contacto que hayas establecido "¿Quién es?", en una cuenta cuando sepas "¿Dónde trabajan?" y en una oportunidad una vez que conozcas "¿Qué podría comprar?".
 
-== Clientes Potenciales
+== Acciones para Clientes Potenciales
 
 Podes acceder a acciones de clientes potenciales desde el menú desplegable del módulo de Clientes Potenciales o desde la barra lateral. Las acciones del módulo son las siguientes:
 
 * *Crear cliente potencial* – Se abrirá un nuevo formulario en Editar Vista para permitirle crear un nuevo registro de Cuenta.
-* *Ver clientes potenciales* – Redirecciona a la Vista de la Lista de clientes potenciales del módulo. Esto permite buscar y listar clientes potenciales.
+* *Ver clientes potenciales* – Redireccioná a la Vista de la Lista de clientes potenciales del módulo. Esto permite buscar y listar clientes potenciales.
 * *Importar Clientes Potenciales* – Redirige al asistente de importación para el módulo de clientes potenciales. Para más información vea el siguiente link:./../../introduction/user-interface/record-management/#_importing_records[Importar Registros].
 
 Para ver la lista completa de campos disponibles cuando crea un cliente potencial, vea el siguiente link link:./../../appendix-a/#_leads_field_list[Lista de campos para Clientes Potenciales].
@@ -20,7 +20,7 @@ Para ver la lista completa de campos disponibles cuando crea un cliente potencia
 
 * Para ordenar registros en la vista de las lista Clientes Potenciales, haga clic en el título de cualquier columna ordenar. Esto ordenará la columna ya sea de forma ascendente o descendente.
 * Para buscar clientes potenciales, ingrese a link:./../../introduction/user-interface/search[Buscar] de la sección de esta guía de usuario.
-* Para actualizar algunos o todos los clientes potenciales en la vista de la lista, utilice el panel de actualización masiva como describe link:./../../introduction/user-interface/record-management/#_mass_updating_records[Actualización Masiva]en la sección de esta guía de usuario.
+* Para actualizar algunos o todos los clientes potenciales en la vista de la lista, utilice el panel de actualización masiva como describe link:./../../introduction/user-interface/record-management/#_mass_updating_records[Actualización Masiva] en la sección de esta guía de usuario.
 * Para duplicar un cliente potencial, haga clic en el botón "Duplicar" en la vista de detalles y luego guarde el registro duplicado
 * Para combinar un cliente potencial duplicado, seleccione el registro desde la vista de la lista de Clientes Potenciales, haga clic en la opción "Combinar" en la lista desplegable de "Acciones" y avance a través del proceso de fusión. Para obtener más información sobre la combinación de duplicados, consulte la sección "Combinar registros" de esta guía del usuario link:./../../introduction/user-interface/record-management/#_merging_records[Combinar Registros].
 * Para borrar uno o múltiples clientes potenciales, puede seleccionar múltiples registros desde la vista de la lista y hacer clic en eliminar. Puede también borrar un cliente potencial desde la vista de "Detalles" haciendo clic en el botón eliminar. Para obtener más detalles sobre la eliminación de registros, consulte la sección "Eliminación de registros" de esta guía de usuario link:./../../introduction/user-interface/record-management/#_deleting_records[Borrar Registros]
